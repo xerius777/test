@@ -252,7 +252,7 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/ch32-rs/wchisp/releases/download/v0.3.0",
+              "url": "https://github.com/ch32-rs/wchisp/releases/download/v0.3.0/wchisp-v0.3.0-win-x64.zip",
               "archiveFileName": "wchisp-v0.3.0-win-x64.zip",
               "checksum": "SHA-256:eba605bbc62f217f6454e7236d04ef1b8a6b4396dd7ce8dc26fc83016213c3aa",
               "size": "1725440"
